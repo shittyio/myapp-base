@@ -1,3 +1,5 @@
+default['myapp']['name'] = 'myapp'
+
 default['myapp']['packages'] = {
   'installed' => {
     'vim'  => nil,
